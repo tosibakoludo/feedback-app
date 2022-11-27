@@ -1,0 +1,7 @@
+{
+    "open-in-browser.default": "chrome",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveSassCompile.settings.autoprefix": [
+    
+    ]
+}
